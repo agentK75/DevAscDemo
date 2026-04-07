@@ -14,3 +14,4 @@ if __name__ == "__main__":
     print(greet("World"))
     print(f"5 + 3 = {add_numbers(5, 3)}")
     print(f"4 is even: {is_even(4)}")
+    print("Welcome to DevAsc")
